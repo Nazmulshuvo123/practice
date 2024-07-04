@@ -21,3 +21,16 @@
     text-align: center;
     width: 70%;
 }
+.content h3{
+    font-size: 28px;
+    color: rgba(32, 137, 141, 0.788);
+    text-transform: uppercase;
+}
+.content p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+
+
+
