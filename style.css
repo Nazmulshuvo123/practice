@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 .banner{
-    height: 90vh;
+    height: 98vh;
     width: 100%;
     background-image:  url('sugarman-joe-ytpmVXObACc-unsplash.jpg');
     background-repeat: no-repeat;
@@ -17,13 +17,13 @@
 }
 
 .content{
-    color: #c254a6f3;
+    color: #030103f3;
     text-align: center;
     width: 70%;
 }
 .content h3{
     font-size: 28px;
-    color: rgba(32, 137, 141, 0.788);
+    color: rgba(38, 38, 136, 0.829);
     text-transform: uppercase;
 }
 .content p{
@@ -40,6 +40,10 @@
     padding: 15px 25px;
     font-size: 16px;
     cursor: pointer;
+}
+.content button:hover{
+    background-color: rgba(0, 0, 0, 0.61);
+    transition: 0.3s ease-in;
 }
 
 
